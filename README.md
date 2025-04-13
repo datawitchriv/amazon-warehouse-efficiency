@@ -27,4 +27,4 @@ This project explores warehouse shift performance using simulated operational da
 **[Amazon_Warehouse_Efficiency_Analysis.ipynb](./Amazon_Warehouse_Efficiency_Analysis.ipynb)**
 
 ---
-_River McGuffie | Aspiring Data Analyst | [LinkedIn](https://www.linkedin.com/in/river-mcguffie-36344a189/)_
+_River McGuffie | Data Analyst | [LinkedIn](https://www.linkedin.com/in/river-mcguffie-36344a189/)_
